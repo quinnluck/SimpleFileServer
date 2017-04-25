@@ -1,0 +1,6 @@
+c:\users\quinn\documents\visual studio 2015\Projects\SimpleFileSystem\SimpleFileSystem\bin\Debug\SimpleFileSystem.exe.config
+c:\users\quinn\documents\visual studio 2015\Projects\SimpleFileSystem\SimpleFileSystem\obj\Debug\SimpleFileSystem.csprojResolveAssemblyReference.cache
+c:\users\quinn\documents\visual studio 2015\Projects\SimpleFileSystem\SimpleFileSystem\bin\Debug\SimpleFileSystem.exe
+c:\users\quinn\documents\visual studio 2015\Projects\SimpleFileSystem\SimpleFileSystem\bin\Debug\SimpleFileSystem.pdb
+c:\users\quinn\documents\visual studio 2015\Projects\SimpleFileSystem\SimpleFileSystem\obj\Debug\SimpleFileSystem.exe
+c:\users\quinn\documents\visual studio 2015\Projects\SimpleFileSystem\SimpleFileSystem\obj\Debug\SimpleFileSystem.pdb
